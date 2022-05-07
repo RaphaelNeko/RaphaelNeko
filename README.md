@@ -1,8 +1,8 @@
-👋 Hi, Starbit Light here~! 🌠
-<br>We are working on a game called Suicide For Him. Check it out on Steam!
+👋 Hi, I'm Raphael~! 🌠
+<br>I am working on a game called Suicide For Him with my team. Check it out on Steam!
 <br>https://suicideforhim.com/steam
-<br><br><br><b>About us</b>
-<br>Founded in 2020, Starbit Light is a team created by Raphael composed of a few members around the world working on their free time. Our goal is to bring fun and entertainment to your universe!
+<br><br><br><b>About Starbit Light</b>
+<br>Founded in 2020, Starbit Light is a team created by me composed of a few members around the world working on their free time. Our goal is to bring fun and entertainment to your universe!
 <br><br>More information on our website 👉 https://starbitlight.com
 
 <!---
